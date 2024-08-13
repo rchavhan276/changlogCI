@@ -1,3 +1,13 @@
+# Version: v0.0.2
+
+
+#### Unlabeled Changes
+
+* [#1](https://github.com/rchavhan276/changlogCI/pull/1): [Changelog CI] Add Changelog for Version v0.0.1
+* [#2](https://github.com/rchavhan276/changlogCI/pull/2): Update index.html
+* [#3](https://github.com/rchavhan276/changlogCI/pull/3): Update main.yml
+
+
 # Version: v0.0.1
 
 * [8a727ab](https://github.com/rchavhan276/changlogCI/commit/8a727abf21009c660b59d3753120d6ee537c3b74): Create changelog-ci-config.yaml
