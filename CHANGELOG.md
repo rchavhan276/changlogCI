@@ -1,3 +1,18 @@
+# Version: v0.1.0 (13-08-2024)
+
+
+#### Unlabeled Changes
+
+* [#1](https://github.com/rchavhan276/changlogCI/pull/1): [Changelog CI] Add Changelog for Version v0.0.1
+* [#2](https://github.com/rchavhan276/changlogCI/pull/2): Update index.html
+* [#3](https://github.com/rchavhan276/changlogCI/pull/3): Update main.yml
+* [#4](https://github.com/rchavhan276/changlogCI/pull/4): This is First Release
+* [#5](https://github.com/rchavhan276/changlogCI/pull/5): Update index.html
+* [#6](https://github.com/rchavhan276/changlogCI/pull/6): Update index.html
+* [#7](https://github.com/rchavhan276/changlogCI/pull/7): Update index.html
+* [#8](https://github.com/rchavhan276/changlogCI/pull/8): v0.1.0 (13-08-2024)
+
+
 # Version: v0.0.2
 
 
